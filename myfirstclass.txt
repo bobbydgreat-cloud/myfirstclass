@@ -1,1 +1,13 @@
-i 
+I used to think the internet and the web were the same thing, but nah. The internet’s like this massive network—computers, cables, routers, all talking to each other across the globe. It’s what lets me send emails or stream videos.
+Web Architecture
+This one’s about how websites actually work behind the scenes
+Internet Protocols
+Protocols are like the rules for how computers chat online
+Servers and APIs
+Servers are just beefy computers that never sleep, always ready to handle my requests.Then there’s APIs—think of them as a waiter taking my order to the kitchen.
+Databases
+Databases are where data lives, like a super-organized filing cabinet. There’s SQL ones, with neat tables (think Excel but fancier), and NoSQL, which are more flexible, like storing JSON.
+Website Creation with CMS
+A CMS (like WordPress) is like a shortcut for building sites without coding everything. I could pick a theme, add text or pics (like screenshot.png), and boom—website done
+Code Editors
+Code editors are where the magic happens. I’ve got VS Code set up, and it’s way better than typing type nul in Command Prompt. It highlights my code, suggests fixes, and even ties into Git. 
